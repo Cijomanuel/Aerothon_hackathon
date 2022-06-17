@@ -6,9 +6,9 @@ Airothon 4.0 is a national level hackathon organized by Airbus. It was conducted
 
 ## Team-mates
 
-Alan Alby
-Anil Anand
-Cijo Manuel
+Alan Alby,
+Anil Anand,
+Cijo Manuel,
 Smitha John
 
 ## Airothon 4.0 - Final Stage Details
